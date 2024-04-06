@@ -1,2 +1,2 @@
 # QRCode-Keychain
-A QRCode keychain for LSBU-RS
+A QRCode keychain for LSBU-RS.
